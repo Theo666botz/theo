@@ -57,7 +57,7 @@ global.available = true //status online (online)
 // Other
 global.mods = ['6283818409283']
 global.prems = ['6283818409283']
-global.nomorbot = '6283818409283'
+global.nomorbot = '17787436049'
 global.nameown = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ'
 global.nomorown = '6283818409283'
 global.nomorown1 = '6283818409283'
