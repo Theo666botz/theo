@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281228070013', '𝑍𝐼𝑅𝑂-𝑀𝐷', true],
+['6283818409283', 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6281228070013']
-global.prems = ['6281228070013']
-global.nomorbot = '62882007157628'
-global.nameown = '𝗭𝗶𝗿𝗼-𝗠𝗗'
-global.nomorown = '6281228070013'
-global.nomorown1 = '6281228070013'
-global.nomorown2 = '6281228070013'
-global.nomorwa = '081228070013'
+global.mods = ['6283818409283']
+global.prems = ['6283818409283']
+global.nomorbot = '6283818409283'
+global.nameown = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ'
+global.nomorown = '6283818409283'
+global.nomorown1 = '6283818409283'
+global.nomorown2 = '6283818409283'
+global.nomorwa = '083818409283'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,46 +74,46 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝑍𝐼𝑅𝑂-𝑀𝐷'//nama group kalian
-global.author = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti aja cuyyy
-global.namebot = '​𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗' //nama bot luh
-global.wm = '© 𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti aja
+global.gcname = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ'//nama group kalian
+global.author = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ' //ganti aja cuyyy
+global.namebot = '​ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝗠𝗗' //nama bot luh
+global.wm = '© ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = '𝑍𝐼𝑅𝑂-𝑀𝐷 ' //wm nyaa kocak
+global.wm = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti ajaa 
+global.wm2 = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `𝗭𝗶𝗿𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 | 𝑍𝐼𝑅𝑂-𝑀𝐷` //ganti aja
-global.stickpack = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.stickauth = `© 𝑍𝐼𝑅𝑂-𝑀𝐷` //gantii 
+global.titlebot = `ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝗠𝗗 | ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷` //ganti aja
+global.stickpack = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷' //ganti 
+global.stickauth = `© ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
-global.nameown2 = '𝑍𝐼𝑅𝑂-𝑀𝐷' //ganti 
+global.nameown1= 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷' //ganti 
+global.nameown2 = 'ᵀʰᵉᵒ⁶⁶⁶ᴮᵒᵗᶻ-𝑀𝐷' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2'//ganti jadi link gc luh
+global.lynk = '-'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/LMoogYB7Fjc3v1ep9GwBG2' //Group wa juga 
+global.sig = '-' //ganti jadi ig mu
+global.sgh = '-' //github
+global.sgc = '-' //group whatsapp
+global.gcwangsaf = '-' //Group wa juga 
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Ziro-MD_Official' //yt klo punya 
-global.wame = 'https://wa.me/6281228070013' //Tautan Wa Kalian
+global.snh = '-' //yt klo punya 
+global.wame = 'https://wa.me/6283818409283' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = 'CHAT OWNER KAK !!' //Isi aja klo punya 
-global.povo = '-' //Isi Aja klo punya 
+global.pdana = '0838 1840 9283' //Isi aja klo punya 
+global.povo = 'CHAT OWNER KAK !!' //Isi Aja klo punya 
 global.pgopay = 'CHAT OWNER KAK !!' //Isi aja klo punya 
-global.plinkaja = '-' //link aja,isi Klo punya
+global.plinkaja = 'CHAT OWNER KAK !!' //link aja,isi Klo punya
 global.ppulsa = 'CHAT OWNER KAK!!' //Isi aja klo punya 
-global.ppulsa2 = 'CHAT OWNER KAK!!' //Isi aja klo punya 
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
+global.ppulsa2 = '0838 1840 9283' //Isi aja klo punya 
+global.psaweria = '-' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
 
