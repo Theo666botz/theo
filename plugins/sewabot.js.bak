@@ -48,7 +48,7 @@ if (!text) throw `Teksnya?`
 {"productMessage": {
 "product": {
 		"productImage": {
-		 "url": "https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff",
+		 "url": "https://i.postimg.cc/zB8mj3cr/Logo-Theo666.jpg",
 "mimetype": "image/jpeg",
 "fileSha256": "nDM/acIuR4SDh/ZKrS8ysfYlM2Z/RgAuikg9Bj1jK+s=",
 "fileLength": "12295",
@@ -101,7 +101,7 @@ await conn.relayMessage(m.chat,  {
 if (command == 'menggrup') {
 if (!text) throw `Teksnya?`
 await conn.relayMessage(m.chat, 
-{"groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us',
+{"groupInviteMessage": { "groupJid": '6283818409283-1616169743@g.us',
 "inviteCode": text,
 "groupName": author,
 "footerText": wm,
